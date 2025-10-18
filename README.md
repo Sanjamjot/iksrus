@@ -35,8 +35,25 @@ Technology	Purpose
 
 🛠️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/ai-ui-design-editor.git
+git clone https://github.com/Sanjamjot/iksrus
 cd ai-ui-design-editor
 
 2️⃣ Install dependencies
+
 npm install
+
+3️⃣ Run locally
+
+npm run dev
+
+Project Structure-
+├── 📁 src
+│   ├── App.jsx          # Main app component
+│   ├── index.css        # Tailwind base styles
+│   └── main.jsx         # Entry point
+├── 📄 package.json
+├── 📄 tailwind.config.js
+└── 📄 README.md
+
+
+
